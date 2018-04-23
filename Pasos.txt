@@ -1,0 +1,10 @@
+ionic cordova plugin add cordova-plugin-streaming-media
+npm install --save @ionic-native/streaming-media
+
+appmodules
+-------------
+import {StreamingMedia} from '@ionic-native/streaming-media';
+ 
+
+ poner variable en providers con  ,
+ StreamingMedia
